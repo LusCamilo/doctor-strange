@@ -8,6 +8,7 @@ header{
 }
 .links-container{
     height: 36px;
+    list-style: none;
     display: flex;
     align-items: center;
     gap: 40px;
@@ -33,7 +34,23 @@ header{
         height: 70px;
     }
     .links-container{
-        display: none;
+        background-color: #000;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        flex-direction: column;
+        justify-content: center;
+        font-size:  2.5rem;
+        font-weight: 300;
+        gap: 65px;
+        transform: translate(100%);
+        transition: all 1s;
     }
+}
+.menu-burguer-container.show ~ .links-container{
+    transform: translate(0);
 }
 

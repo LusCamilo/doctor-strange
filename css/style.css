@@ -13,6 +13,10 @@ body{
     flex-direction: column;
     padding: 0 120px;
 }
+body, html{
+    position: relative;
+    overflow: hidden;
+}
 @media(max-width: 768px){
     body{
         padding:  0 30px;
