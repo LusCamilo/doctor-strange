@@ -8,3 +8,20 @@ body{
     flex-direction: column;
     padding: 0 120px;
 }
+.titulo{
+ padding-top: 280px;
+}
+.titulo h1{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Mulish', sans-serif;
+    font-size: 100px;
+    line-height: 4.5rem;
+    color: white;
+
+}
+
+
+
+
+

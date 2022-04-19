@@ -1,0 +1,18 @@
+.img{
+    position: absolute;
+    padding-left: 300px;
+}
+.descricao-container h2{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 59px;
+    color: white;
+    padding-top: 80px;
+}
+.descricao-container{
+    padding-left: 1100px;
+    position: absolute;
+}
