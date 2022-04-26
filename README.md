@@ -3,8 +3,7 @@
 ## projeto feito na aula de lima no curso de Desenvolvimento de sistemas do [SENAI jandira](https://jandira.sp.senai.br/curso/85566/127/tecnico-de-desenvolvimento-de-sistemas), com o prof.[Fernando Leonid](https://github.com/fernandoleonid)
 
 <img src="./img/docstrange.png" width="800px">
-<img src="./img/Android2.png" width="225px">
-<img src="./img/Android1.png" width="225px">
+<img src="./img/Android2.png" width="225px">  <img src="./img/Android1.png" width="225px">
 
 --- 
 ## Qual era o objetivo do projeto?
