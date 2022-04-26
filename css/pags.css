@@ -9,7 +9,7 @@ body{
     padding: 0 120px;
 }
 .titulo{
- padding-top: 280px;
+    padding-top: 280px;
 }
 .titulo h1{
     display: flex;
@@ -18,7 +18,6 @@ body{
     font-size: 100px;
     line-height: 4.5rem;
     color: white;
-
 }
 
 
