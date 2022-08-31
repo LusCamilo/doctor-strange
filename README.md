@@ -7,7 +7,7 @@
 
 --- 
 ## Qual era o objetivo do projeto?
-## o objetivo era criar um landing page com base no design feito no figma, aprendendo a estrutura do HTML, CSS, JS e concitos de responsividade
+## o objetivo era criar um landing page com base no design feito no figma, aprendendo a estrutura do HTML, CSS, JS e conceitos de responsividade
 ---
 ## o que é landing pages?
 ## são paginas que tem o foco principal na conversão de visitantes, tendo uma estetica mais minimalistas comparada aos sites tradicionais
